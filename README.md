@@ -4,7 +4,9 @@
 
 ## 📺 Demo
 
-- ![Emoji Land with noise level 100](assets/n100.png)
+#### Noise Level 100
+
+![Emoji Land with noise level 100](assets/n100.png)
 
 ## 🛠 Built With
 
